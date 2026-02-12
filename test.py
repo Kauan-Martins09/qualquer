@@ -1,4 +1,4 @@
-mport pygame
+import pygame
 pygame.init()
 
 tamanho_tela = (800, 800)
@@ -28,3 +28,4 @@ while not fim_jogo:
     pygame.time.wait(1)
 
 pygame.quit()
+
